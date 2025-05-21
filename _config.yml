@@ -1,12 +1,12 @@
 # Site
-name: John Doe
-description: Just another website
-meta_description: Just another website
+name: Marcel Schutte
+description: Pragmatic Architecture Website
+meta_description: Pragmatic Architecture Website
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
+email: 'marceljschutte+pragarch@gmail.com'
 google_analytics: UA-103662447-9
 disqus:
 sharethis:
@@ -14,13 +14,13 @@ sharethis:
 # Authors
 authors:
   john:
-    name: john
-    display_name: John Doe
+    name: Marcel
+    display_name: Marcel Schutte
     image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: http://example.com
+    email: marceljschutte+pragarch@gmail.com
+    web: http://pragarchitect.github.io
     twitter:
-    description: Hi, I am John Doe.
+    description: Hi, I am Marcel Schutte
 
 # Plugins
 plugins:
@@ -44,7 +44,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: pragarchitect
   card: summary
 
 facebook:
@@ -55,7 +55,6 @@ facebook:
 social:
 name: John Doe
 links:
-    - https://twitter.com/
-    - https://www.facebook.com/
-    - https://www.linkedin.com/
-    - https://github.com/
+    - https://x.com/pragarchitect
+    - https://www.linkedin.com/marceljschutte
+    - https://github.com/pragarchitect
