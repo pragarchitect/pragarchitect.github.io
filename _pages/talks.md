@@ -10,11 +10,9 @@ Nothing yet!
 
 
 # Slidedecks of my previous talks
-Slidedecks of my previous talks
-
 
 |Date given|Location|Talk|Link|
-|----------|--------|----|----|
+|:----------:|--------|----|:----:|
 |20230414|Sogeti Vianen - Java Friday| JEDUF with C4|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20230414-JEDUF%20with%20C4.pdf)|
 |20231103|Sogeti Groningen - Java Friday| Devoxx Antwerpen|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx-eng.pdf) - [NL](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx.pdf)|
 |20240301|Sogeti Groningen - Java Friday| Architecting for Tomorrow|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx-eng.pdf) |

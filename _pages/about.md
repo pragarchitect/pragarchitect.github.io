@@ -4,26 +4,18 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Hi, I’m Marcel Schutte — a passionate solution architect from the Netherlands with a strong focus on pragmatic design, software architecture, and knowledge sharing.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+I work at Sogeti, one of the leading IT companies in the Netherlands, where I’m part of a vibrant Java community. Within this group, I’m responsible for all education and training initiatives, helping developers grow their skills and stay future-ready.
 
-## Features
+Outside of my role at Sogeti, I regularly speak at conferences like Devoxx, TEQNation, and AppDevCon. My talks focus on solution architecture, Java ecosystems, and the growing impact of AI on our work as architects and tech leaders.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+I believe in practical solutions, clear communication, and enabling teams to make better, faster decisions. My presentations, blogs, and workshops reflect this mindset — less theory, more value.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+When I’m not working or presenting, you’ll find me running, geocaching, gardening, or playing badminton. I enjoy exploring new ideas — whether in tech or in nature.
+
+Thanks for visiting!
+
+
+[<img src="{{ site.baseurl }}/images/me.jpg" style="width: 400px;"/>]
+
