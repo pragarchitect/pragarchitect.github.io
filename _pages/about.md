@@ -17,5 +17,5 @@ When I’m not working or presenting, you’ll find me running, geocaching, gard
 Thanks for visiting!
 
 
-[<img src="{{ site.baseurl }}/images/me.jpg" style="width: 400px;"/>]
+<img src="{{ site.baseurl }}/images/me.jpg" style="width: 600px;"/>
 
