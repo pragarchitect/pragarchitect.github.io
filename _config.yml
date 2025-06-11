@@ -9,7 +9,7 @@ name: Pragmatic Architect
 author: Marcel Schutte
 
 # Short bio or description (displayed in the header)
-description: A Pragmatic Architecture website
+description: Do what you can, with what you have, where you are.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -24,7 +24,7 @@ footer-links:
   email: marceljschutte+pragarchitect@gmail.com
   facebook:
   flickr:
-  github: pragarchitect/pragarchitect.github.io
+  github: pragarchitect/
   instagram:
   linkedin: www.linkedin.com/in/marceljschutte
   pinterest:
