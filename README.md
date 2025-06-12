@@ -1,1 +1,1 @@
-Website for Pragmatic Architect
+Website for Pragmatic Architect by Marcel Schutte
