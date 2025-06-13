@@ -4,12 +4,12 @@ title: Talks
 permalink: /talks/
 ---
 
-# Upcoming talks
+## Upcoming talks
 
 Nothing yet!
 
 
-# Previous talks
+## Previous talks
 
 |Date given|Location|Talk|Link|
 |:----------:|--------|----|:----:|
