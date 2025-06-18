@@ -3,10 +3,7 @@ layout: post
 title:  Introducing the Pragmatic Architect
 categories: [misc]
 ---
-
-## Hey there – welcome to Pragmatic Architect
-
-This site is my personal corner of the internet to share thoughts, ideas, and lessons learned about software architecture.
+Hey there – welcome to Pragmatic Architect, this site is my personal corner of the internet to share thoughts, ideas, and lessons learned about software architecture.
 
 It’s where I’m figuring out what modern, down-to-earth architecture looks like — and how we can make it work in the real world.
 
