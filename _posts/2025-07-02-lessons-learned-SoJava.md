@@ -44,7 +44,7 @@ I didn't start with a clear outline of how the day should flow. Instead, I just 
 - Closing keynote (Java-related and entertaining)
 - Drinks and bitterballen
 
-{% include pullquote.html quote="The flow worked well."%} The opening keynote got people energized without diving straight into technical details. The breakout sessions gave attendees choices and kept the energy up. And the closing keynote sent everyone off on a high note before the networking started.
+{% include pullquote.html quote="The flow worked well." %} The opening keynote got people energized without diving straight into technical details. The breakout sessions gave attendees choices and kept the energy up. And the closing keynote sent everyone off on a high note before the networking started.
 
 But I got lucky. What if I had ended up with six highly technical talks and no lighter content? Or three similar talks all scheduled back-to-back? The day could have been a slog.
 
@@ -57,7 +57,7 @@ That meant I was doing all the work. Researching potential speakers, crafting pe
 
 The approach worked, but it wasn't efficient. And I probably missed out on great speakers I simply didn't think of or couldn't find.
 
-Next time, I'll still do active outreach - that personal touch matters, especially for a newer conference. But I'll also open a Call for Papers. That way, speakers can come to me with ideas I hadn't considered. {% include pullquote.html quote="It might uncover hidden gems in the community or give newer speakers a chance to participate. "}
+Next time, I'll still do active outreach - that personal touch matters, especially for a newer conference. But I'll also open a Call for Papers. That way, speakers can come to me with ideas I hadn't considered. {% include pullquote.html quote="It might uncover hidden gems in the community or give newer speakers a chance to participate. " %}
 
 A CFP also takes some pressure off me to think of everything. Instead of trying to imagine every possible topic that would interest Java developers, I can let the community show me what they're excited about.
 
