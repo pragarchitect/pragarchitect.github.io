@@ -15,6 +15,10 @@ I knew the basics. Java developers are particular about their content. They want
 What followed were months of reaching out to speakers, juggling schedules, second-guessing topic choices, and hoping I was building something worthwhile. Some things went better than expected. Others didn't go as planned at all.
 Here's what I learned along the way.
 
+<img src="{{ site.baseurl }}/images/20250702-learn.jpg" style="width: 700px;"/>
+<i><p style="text-align:center;">Photo by <a href="https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brett Jordan</a> on <a href="https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
+
+
 ## Lesson 1: Start way earlier than you think
 I thought four months would be plenty of time to find speakers. I was wrong.
 
@@ -31,10 +35,8 @@ If I had started two months earlier, I would have had first pick of available sp
 Next time, I'm starting the speaker outreach process at least six months in advance. Maybe longer.
 
 <img src="{{ site.baseurl }}/images/20250702-calendar.jpg" style="width: 700px;"/>
-
-<i><p style="text-align:center;">_Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
+<i><p style="text-align:center;">Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
       
-
 ## Lesson 2: Plan your conference structure first
 This year, everything fell into place. But I'll be honest - that was mostly luck.
 
@@ -51,6 +53,9 @@ But I got lucky. What if I had ended up with six highly technical talks and no l
 
 Next time, I'm creating the conference outline first. I'll decide on the rhythm and types of sessions before I start reaching out to speakers. That way, I can be more intentional about what I'm looking for instead of just hoping the pieces fit together.
 
+<img src="{{ site.baseurl }}/images/20250702-puzzle.jpg" style="width: 700px;"/>
+<i><p style="text-align:center;">Photo by <a href="https://unsplash.com/@melpoole?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mel Poole</a> on <a href="https://unsplash.com/photos/black-and-white-heart-shaped-textile-LuaT29bdjMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
+      
 ## Lesson 3: Don't do all the outreach yourself
 Since this was the first time SoJava was open to all developers, we didn't have an established reputation. Speakers didn't know about us yet, so I had to actively reach out to everyone.
 
@@ -63,6 +68,10 @@ Next time, I'll still do active outreach - that personal touch matters, especial
 A CFP also takes some pressure off me to think of everything. Instead of trying to imagine every possible topic that would interest Java developers, I can let the community show me what they're excited about.
 
 It's about balance. Direct outreach for the speakers you really want, plus a CFP to discover the ones you didn't know you wanted.
+
+<img src="{{ site.baseurl }}/images/20250702-papers.jpg" style="width: 700px;"/>
+<i><p style="text-align:center;">Photo by <a href="https://unsplash.com/@brett_jordan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Brett Jordan</a> on <a href="https://unsplash.com/photos/brown-wooden-blocks-on-white-table-w7sIj-M5Xyc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
+
 
 ## Ready for Round Two
 
