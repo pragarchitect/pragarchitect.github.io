@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lessons learned from a first time Developer Conference Programme Lead
-categories: [HTML,Code]
+categories: [LessonsLearned,Conference]
 # excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
 ---
 
