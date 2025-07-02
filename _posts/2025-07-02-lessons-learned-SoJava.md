@@ -32,7 +32,7 @@ Next time, I'm starting the speaker outreach process at least six months in adva
 
 <img src="{{ site.baseurl }}/images/20250702-calendar.jpg" style="width: 700px;"/>
 
-<p style="text-align:center;">_Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+<i><p style="text-align:center;">_Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p></i>
       
 
 ## Lesson 2: Plan your conference structure first
