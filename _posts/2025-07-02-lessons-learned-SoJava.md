@@ -30,6 +30,10 @@ If I had started two months earlier, I would have had first pick of available sp
 
 Next time, I'm starting the speaker outreach process at least six months in advance. Maybe longer.
 
+![image info](./20250702/calendar.jpg)
+* Photo by <a href="https://unsplash.com/@towfiqu999999?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Towfiqu barbhuiya</a> on <a href="https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a> *
+      
+
 ## Lesson 2: Plan your conference structure first
 This year, everything fell into place. But I'll be honest - that was mostly luck.
 
