@@ -7,7 +7,7 @@ category: architecture
 
 Shared responsibility & effort on your software architecture builts great teams & better products.
 
-<img src="{{ site.baseurl }}/images/20250702-learn.jpg" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/images/20250721-teamwork.jpg" style="width: 700px;"/>
 <p style="text-align:center; font-style: italic;">Photo by <a href="https://unsplash.com/@austindistel?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Austin Distel</a> on <a href="https://unsplash.com/photos/three-men-sitting-while-using-laptops-and-watching-man-beside-whiteboard-wD1LRb9OeEo?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
 
 ### Building Together: Why Architecture Needs the Whole Team
