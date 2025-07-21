@@ -2,7 +2,6 @@
 layout: post
 title:  Lessons learned from filling the SoJava conference programme
 categories: [LessonsLearned,Conference]
-# excerpt: In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic.
 ---
 
 Last May, I found myself in charge of something I'd never done before: creating the entire programme for a developer conference.
