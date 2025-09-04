@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Strong Architecture, Stronger Teams - The Power of Shared Responsibility
-# categories: [architecture]
 category: architecture
 ---
 
