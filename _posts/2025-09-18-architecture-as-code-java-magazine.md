@@ -3,8 +3,6 @@ layout: post
 title:  Architecture as Code
 categories: [architecture, java magazine]
 ---
-*This article was first published in [Java Magazine 2025-3](https://nljug.org/category/java-magazine/2025-editie-3/)*
-
 Imagine a tool running quietly in the background. Nobody’s quite sure what it does, who built it, or why it still exists. It has no clear owner, no trusted documentation. Yet somehow, it serves around 250,000 clients every year. It works, so people leave it alone.
  
 Until one day, it crashes.
@@ -219,3 +217,5 @@ Of course, this approach takes a bit of extra effort. Writing down decisions, dr
 This way of working makes architecture part of everyday development. It spreads knowledge, builds trust, and avoids surprises—without needing big documents or a single person guarding the plan.
  
 It’s simple, it works, and it keeps architecture real.
+
+*This article was first published in [Java Magazine 2025-3](https://nljug.org/nieuws/java-magazine-3-is-uit/)*
