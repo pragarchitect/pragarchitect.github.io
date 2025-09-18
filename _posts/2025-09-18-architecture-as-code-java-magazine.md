@@ -29,7 +29,7 @@ Each of these should be supported by easy-to-use tools. In this article we take 
  
 This approach makes architecture a team effort. Everyone can understand it. Everyone can help keep it healthy. And we’re less likely to be caught off guard by systems no one remembers.
 
-## Why the C4 Model Is So Powerful
+### Why the C4 Model Is So Powerful
 The [C4 Model](https://c4model.com/), created by Simon Brown, is a clear and practical way to show software architecture. It works well for a few simple reasons:
  
 1. Different levels for different audiences: C4 has four layers: Context, Container, Component, and Code. You can zoom in or out depending on who you’re talking to. Business stakeholders see how systems connect. Developers see how things work on the inside.
@@ -124,7 +124,7 @@ By putting our C4 model files in the same Git repository as our code, we get sev
  
 This makes architecture part of the daily workflow—just like code. It’s no longer a separate task that gets forgotten. It grows with the system and stays useful. That’s what pragmatic architecture looks like.
 
-## Architecture Decision Records: Capturing the Why
+### Architecture Decision Records: Capturing the Why
 [ADRs](https://adr.github.io/) help you document not just what was decided—but why. Code shows what the system does. Application-specific ADRs explain the thinking behind it. That context becomes valuable over time, especially when teams change or systems grow more complex.
  
 Writing ADRs in Markdown keeps things simple. It’s plain text, so it fits easily into Git workflows. You can add or update an ADR in the same pull request as the code change it relates to. That keeps decisions close to the work—and easy to review.
@@ -135,7 +135,7 @@ Keeping ADRs in the codebase gives you version control over decisions. You can s
  
 It’s a small habit that solves a big problem: making sure important architectural choices don’t get lost.
 
-## A Practical Example
+### A Practical Example
 **Listing 4** shows what an architectural decision looks like in a Markdown-based ADR.
 
 ```md
@@ -167,7 +167,7 @@ This short record captures the full story behind a major change. Keeping ADRs in
 
 ADRs and project logs like [RAID logs](https://www.projectmanager.com/blog/raid-log-use-one) or issue trackers serve different purposes but should be linked. RAID logs can point to ADRs for detailed architectural decisions and rationale. ADRs may include governance on how decisions are enforced and can even document tool selection processes.
 
-## ArchUnit: Checking Architecture Through Code
+### ArchUnit: Checking Architecture Through Code
 [ArchUnit](https://www.archunit.org/) lets you turn architectural rules into code. Instead of relying on diagrams or old docs, you write tests that check if the architecture is still being followed.
  
 These tests run with every build. If something breaks a rule, the build fails—so problems are caught early, before they reach production. Architecture becomes part of the workflow, not just theory.
@@ -202,14 +202,14 @@ arch.check(jc);
 ```
 *Listing 4: ArchUnit test for Layered Architecture*
 
-## More Than Just Layers
+### More Than Just Layers
 ArchUnit can do much more than check if layers are used correctly. You can test for forbidden dependencies, naming patterns, cycles, inheritance rules, whatever matters for your architecture. It also helps manage technical debt. You can define rules around legacy code or experimental areas to keep them isolated. That makes refactoring safer and more controlled.
  
 ArchUnit works best when combined with other tools: ADRs explain the why, C4 diagrams show the structure, and ArchUnit checks that the code still follows the plan. Together, they form a tight feedback loop.
  
 In CI pipelines, ArchUnit acts as a safety net. Tests run every time. If a rule is broken, the build fails. No guessing. No relying on memory or manual review. It makes architecture visible, testable, and part of the daily routine—even in large or fast-moving teams.
 
-## Putting It All Together
+### Putting It All Together
 Using C4 diagrams, ADRs, and ArchUnit gives you a grounded, practical way to handle architecture. Each tool covers a different part of the puzzle and together, they help keep design and implementation in sync.
  
 C4 shows how the system fits together, ADRs explain the thinking behind key decisions and ArchUnit makes sure those decisions hold up over time by turning rules into tests. Because all three live in the codebase, they stay close to the work. They evolve as the system does. They stay useful.
