@@ -50,14 +50,14 @@ customerPerson = person "Customer"
  
    	ecommerceSystem = softwareSystem "E-Commerce" {
                
-storeContainer = container "Store SPA" "E-Commerce Store"
-     		stockContainer = container "Stock Management SPA"
-   	      
-apiContainer = container "API" "Backend"  {
-               	policyComp = component "Authorization Policy"
-               	controllerComp = component "API Controller"
-         	   	database = component "Database""Stores orders, stock"
-}
+		storeContainer = container "Store SPA" "E-Commerce Store"
+					stockContainer = container "Stock Management SPA"
+				
+		apiContainer = container "API" "Backend"  {
+						policyComp = component "Authorization Policy"
+						controllerComp = component "API Controller"
+						database = component "Database""Stores orders, stock"
+		}
 	}
 }
 ```
@@ -86,18 +86,18 @@ By adding this, you can generate several different diagrams (see **Listing 3**).
 
 ```md
 systemContext ecommerceSystem "SystemContext" {
-include *
-	   autoLayout lr
+	include *
+	autoLayout lr
 }
  
 container ecommerceSystem "Container" {
-include *
-autoLayout lr
+	include *
+	autoLayout lr
 }
  
 component apiContainer "Component" {
-include * customerPerson warehousePerson
-autoLayout lr
+	include * customerPerson warehousePerson
+	autoLayout lr
 }
 ````
 *Listing 3: Declaring different diagrams in Structurizr DSL*
@@ -113,7 +113,7 @@ This will create the diagrams depicted in Image 1, 2 and 3.
 <img src="{{ site.baseurl }}/images/20250918/fig3-componentdiagram.png" style="width: 700px;"/>
 *Image 3: Component diagram*
 
-## Why Keep Diagrams In Version Control?
+### Why Keep Diagrams In Version Control?
 By putting our C4 model files in the same Git repository as our code, we get several benefits:
  
 1. Change tracking: We can see how the architecture changed over time — and why certain choices were made.
