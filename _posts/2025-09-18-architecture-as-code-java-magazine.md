@@ -3,6 +3,7 @@ layout: post
 title:  Architecture as Code
 categories: [architecture, java magazine]
 ---
+
 Imagine a tool running quietly in the background. Nobody’s quite sure what it does, who built it, or why it still exists. It has no clear owner, no trusted documentation. Yet somehow, it serves around 250,000 clients every year. It works, so people leave it alone.
  
 Until one day, it crashes.
