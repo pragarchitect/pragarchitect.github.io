@@ -26,4 +26,5 @@ Nothing yet!
 |20241009|Devoxx BE - Antwerpen| Architecting for Tomorrow| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20241009-DevoxxBE-Architecting-for-Tomorrow.pdf)|
 |20241107|JFall - Ede| Architecting for Tomorrow| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20241107-JFALL-pragarch-ENG.pdf)|
 |20241129|aiGrunn - Groningen| AI Infused Software Architecture| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20241129-AIGRUNN-ai-infused-software-architecture-ENG.pdf) - [PROMPTS](https://github.com/pragarchitect/slidedecks/blob/main/20241129-aigrunn-ai-infused-sa-prompts.pdf)|
-|20250925| DICTU - Den Haag| Threat modelling| No public slides|
+|20250925| DICTU - Den Haag| Threat modeling| No public slides|
+|20251016| DICTU - Den Haag| Threat modeling workshop| No public slides|
