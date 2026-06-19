@@ -28,3 +28,4 @@ Nothing yet!
 |20241129|aiGrunn - Groningen| AI Infused Software Architecture| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20241129-AIGRUNN-ai-infused-software-architecture-ENG.pdf) - [PROMPTS](https://github.com/pragarchitect/slidedecks/blob/main/20241129-aigrunn-ai-infused-sa-prompts.pdf)|
 |20250925| DICTU - Den Haag| Threat modeling| No public slides|
 |20251016| DICTU - Den Haag| Threat modeling workshop| No public slides|
+|20260619|Agile Congres - Groningen| Architectuur in een Agile Wereld| [NL](https://github.com/marceljschutte/slidedecks/blob/main/20260619-AgileCongres-Architectuur-in-een-Agile-Wereld.pdf)|
