@@ -7,7 +7,9 @@ categories: [architecture, java magazine]
 Imagine a tool running quietly in the background. Nobody’s quite sure what it does, who built it, or why it still exists. It has no clear owner, no trusted documentation. Yet somehow, it serves around 250,000 clients every year. It works, so people leave it alone.
  
 Until one day, it crashes.
- 
+
+---
+
 Suddenly, this forgotten tool becomes urgent. The operations team scrambles to bring it back, but there’s nothing to go on. No README, no diagrams, no code comments. Just a PDF from 1999 called something like System Overview (Final_v3_new).docx.
  
 We’ve all seen situations like this. Systems that are important, but are barely understood. No one really owns them, and no one keeps track. And when something goes wrong, everyone’s left guessing.
