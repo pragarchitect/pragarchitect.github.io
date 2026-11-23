@@ -104,4 +104,10 @@ exclude:
   - .claude
   - "*.code-workspace"
   - _pages/*.jpg
+  # Jekyll-standaarden (deze lijst vervangt de default, dus expliciet herhalen)
+  - vendor
+  - node_modules
+  - .bundle
+  - .jekyll-cache
+  - .sass-cache
 
