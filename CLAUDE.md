@@ -6,6 +6,9 @@ Motto: *"Do what you can, with what you have, where you are."*
 ## Techniek
 - Jekyll-site op GitHub Pages (gem `github-pages`), thema gebaseerd op Reverie / Jekyll Now.
 - Default branch: `master`. Alles wat op `master` komt staat direct live.
+- `master` is beschermd met een GitHub-ruleset: wijzigingen alleen via een pull request,
+  de check `build` (Jekyll-build + linkcheck) moet groen zijn, en force-push/verwijderen is geblokkeerd.
+  Alleen Marcel (repo-admin) kan dit omzeilen.
 - Permalink: `/:title/` → de URL is de slug uit de bestandsnaam (zonder datum).
 - Plugins: jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-paginate (6 per pagina).
 - Ruby 3.3 via rbenv (`.ruby-version`); gems staan buiten de repo (niet in `vendor/`, ivm OneDrive-sync).
@@ -61,6 +64,10 @@ Rest van het artikel...
 
 ## Werkwijze voor agents
 - **Nooit direct op `master` committen of pushen.** Werk op een branch (`artikel/<slug>` of `fix/<onderwerp>`).
-- Pushen en PR's aanmaken alleen na akkoord van Marcel.
+  Een push naar `master` wordt door GitHub geweigerd; probeer dat niet te omzeilen.
+- Pushen en PR's aanmaken alleen na akkoord van Marcel. Mergen doet Marcel zelf — nooit zelf mergen,
+  ook niet als de checks groen zijn.
+- Faalt de `build`-check op een PR? Lees de fout, los hem op dezelfde branch op en push opnieuw.
+- Voor je een branch maakt: eerst `git pull` op `master`, er kan vanaf een andere plek (telefoon/cloud) gewerkt zijn.
 - Feiten, citaten en bronnen niet verzinnen. Persoonlijke anekdotes die je niet kent: markeer als `<!-- TODO Marcel: ... -->` in plaats van ze te fabriceren.
 - Nieuwe artikelen: gebruik de skill `/nieuw-artikel`.
