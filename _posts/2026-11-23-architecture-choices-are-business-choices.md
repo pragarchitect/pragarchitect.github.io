@@ -1,46 +1,28 @@
 ---
 layout: post
-title: "Architecture choices are business choices"
-categories: [architecture, teams]
+title: Architecture choices are business choices
+categories: [architecture, business]
 ---
 
-"This is a technical decision. The business doesn't need to be involved." I hear this a lot, from developers and from product owners. I understand why people say it. But it is almost never true.
+There is a misunderstanding I meet quite often. Architecture is technical, so the product owner and the business don't need to be involved. The architect and the developers will sort it out.
 
----
+But every architecture choice has a price and a risk. And price and risk are always business things.
 
-Earlier this year I touched on this in my talk at the Agile Congres, which I wrote about [in Dutch]({{ site.baseurl }}/architectuur-in-een-agile-wereld/). It was only one slide. I think it deserves a bit more.
+Choose a managed cloud service, and you pay a monthly bill and you depend on a vendor. Build it yourself, and you pay in development time and in maintenance for years. Postpone the refactoring, and you pay later with slower delivery. None of these are purely technical. Somebody with a budget should have an opinion about them.
 
-<!-- TODO Marcel: korte anekdote over een "technische" keuze die later een duidelijke zakelijke impact bleek te hebben (kosten, leverancier, doorlooptijd) -->
+{% include pullquote.html quote="If the business doesn't understand your trade-off, you didn't explain it well enough." %}
 
-Every architecture choice has a price and a risk. Use a managed database, and you pay every month, but nobody has to patch it at night. Build on one vendor's platform, and you move fast now, but leaving later is expensive. Split a system into services, and teams can work more independently, but you also need people who can run all those services.
-
-None of this is purely technical. It is about money, time, risk and dependency. And that is exactly what the business cares about.
-
-{% include pullquote.html quote="If a choice has a price and a risk, it is a business choice. That is almost every architecture choice." %}
-
-## Different words, same problem
-
-The business does care. They just use other words.
+The tricky part is that business and tech often describe the same problem in different words. Some examples:
 
 | The business says... | The architect hears... |
 |---|---|
-| "It takes way too long" | Scalability. We grow faster than the architecture can handle. |
-| "It costs more every year" | Technical debt. The price of earlier choices. |
-| "We depend on that one vendor" | An integration choice. Easy back then, risky now. |
+| "Everything takes so long" | Scalability, or a system that is hard to change |
+| "It costs more and more money" | Technical debt, the price of earlier choices |
+| "We depend on that one supplier" | An integration choice that was easy then and risky now |
+| "We can't move fast enough" | Coupling between teams and systems |
 
-So part of the job is translation, in both directions. Without it, business and IT talk past each other, and the architect makes choices that are really not theirs to make alone.
+Part of the architect's job is to translate. In both directions. Explain to the business what a technical choice will cost them. And explain to the team why the business is worried, because "the PO is difficult again" is usually not the real story.
 
-## How to bring the business in
+A practical way to do this: in your ADRs, add a short section about the consequences in plain language. Not "increased coupling", but "if we pick this, team B can not release without team A". The product owner can read that. And then they can actually make a choice.
 
-- **Talk about time, money and risk.** Not about frameworks or patterns.
-- **Give options with a price tag.** "Option A is ready in two weeks, but it locks us in. Option B takes six weeks, but we can switch later." Then let them choose.
-- **Ask what matters most right now.** Speed, cost or flexibility. The answer often changes the architecture.
-- **Write it down.** In an ADR, add at least one consequence a product owner can understand. I explain how in [my practical guide to ADRs]({{ site.baseurl }}/a-practical-guide-to-adrs/).
-
-## When it really is just technical
-
-Some decisions are just technical. Which logging library. How you name your packages. Don't take those to a steering committee, you will only waste everybody's time.
-
-A simple test: if a choice is cheap to change and doesn't affect cost, risk or a vendor, decide it in the team. If it is expensive to change, or someone will see it on an invoice, bring the business in.
-
-The business will not always choose what you would choose. That is fine. It is their money. Your job is to make sure they know what they are buying.
+Architecture is not something that happens next to the business. It is the business, in a technical form.
