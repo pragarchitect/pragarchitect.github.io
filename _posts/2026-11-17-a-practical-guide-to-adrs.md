@@ -4,7 +4,7 @@ title: "A practical guide to Architecture Decision Records"
 categories: [architecture, adr]
 ---
 
-I have written about ADRs a few times now. In the [Java Magazine article]({{ site.baseurl }}/architecture-as-code-java-magazine/), in my [Agile Congres recap]({{ site.baseurl }}/architectuur-in-een-agile-wereld/), and in a short post about [writing them while the decision is still warm]({{ site.baseurl }}/write-the-adr-while-it-is-still-warm/). Every time, I get the same kind of questions afterwards. Which template do you use? Where do you put them? What do you do when a decision changes? Who writes them?
+I have written about ADRs a few times now. In the [Java Magazine article]({{ site.baseurl }}/architecture-as-code-java-magazine/), in my [Agile Congres recap]({{ site.baseurl }}/architectuur-in-een-agile-wereld/), and in a short post about [writing them while the decision is still warm]({{ site.baseurl }}/write-adr-when-warm/). Every time, I get the same kind of questions afterwards. Which template do you use? Where do you put them? What do you do when a decision changes? Who writes them?
 
 So this is the long version. Everything I learned about ADRs in practice, in one place. It is not the only way to do it. But it is a way that works for the teams I work with.
 
