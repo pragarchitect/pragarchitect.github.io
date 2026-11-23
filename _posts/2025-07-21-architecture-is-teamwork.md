@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Strong Architecture, Stronger Teams - The Power of Shared Responsibility
-category: architecture
+categories: [architecture]
 ---
 
 Shared responsibility & effort on your software architecture builts great teams & better products.

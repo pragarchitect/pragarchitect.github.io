@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architectuur in een Agile Wereld"
-category: architectuur
+categories: [architectuur]
 ---
 
 Hoe je architectuurbeslissingen neemt zonder het team te vertragen — een terugblik op mijn sessie bij het Agile Congres 2026 in Groningen.

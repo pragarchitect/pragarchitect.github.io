@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Write the ADR while the decision is still warm
-categories: [LessonsLearned,Architecture]
+categories: [lessonslearned, architecture]
 ---
 
 Last week a developer asked me why we use a message queue between two services. Good question. I knew we decided it together, about a year ago, in a meeting with the whole team. But the reason? I could only give half of it. And the ADR for it was never written.

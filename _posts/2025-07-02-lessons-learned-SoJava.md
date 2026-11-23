@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Lessons learned from filling the SoJava conference programme
-categories: [LessonsLearned,Conference]
+categories: [lessonslearned, conference]
 ---
 
 Last May, I found myself in charge of something I'd never done before: creating the entire programme for a developer conference.

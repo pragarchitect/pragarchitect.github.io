@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ArchUnit beyond layers: rules I actually use"
-categories: [architecture, java, ArchUnit]
+categories: [architecture, java, archunit]
 ---
 
 In my [Java Magazine article]({{ site.baseurl }}/architecture-as-code-java-magazine/) I showed how you can use [ArchUnit](https://www.archunit.org/) to check a layered architecture. It is the classic example: the controller may call the service, the service may call the repository, and nobody goes the other way.

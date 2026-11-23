@@ -38,13 +38,14 @@ Rest van het artikel...
 - Afbeelding: `<img src="{{ site.baseurl }}/images/<bestand>" style="width: 700px;"/>`
 - Interne link: `[tekst]({{ site.baseurl }}/<slug>/)`
 - Categorieën: gebruik `categories: [...]` (niet `category:`), kleine letters, bij voorkeur bestaande:
-  `architecture`, `teams`, `agile`, `security`, `java`, `lessonslearned`, `conference`.
-  Nederlandstalige posts: `architectuur`.
+  `architecture`, `teams`, `agile`, `security`, `adr`, `java`, `archunit`, `java magazine`,
+  `lessonslearned`, `conference`, `misc`. Nederlandstalige posts: `architectuur`.
+  Een nieuwe categorie alleen als geen bestaande past.
 
 ## Schrijfstijl (belangrijk)
 - Standaard **Engels**; Nederlands alleen als daarom gevraagd wordt (bijv. bij een NL-congres).
 - Eerste persoon, persoonlijk, vanuit de praktijk. Begin vaak met een concrete situatie uit een team.
-- **Eenvoudig, direct Engels**: korte zinnen, gewone woorden, geen jargon-opstapeling, geen marketingtaal.
+- **Eenvoudig, direct Engels**: korte zinnen, gewone woorden, geen jargon-opstapeling, geen marketingtaal. Engels is niet de moedertaal van de schrijver.
   Het mag klinken als een Nederlandse architect die helder Engels schrijft — niet als een copywriter.
 - Kort: meestal **300–600 woorden**. Langere stukken (conferentieverslag, tutorial) alleen op verzoek.
 - Vaste ingrediënten: herkenbare anekdote → één kerninzicht (pullquote) → praktische tips (lijstje) → nuchtere, soms licht humoristische afsluiter.
