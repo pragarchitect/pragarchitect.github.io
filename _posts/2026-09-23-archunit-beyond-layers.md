@@ -8,6 +8,8 @@ In my [Java Magazine article]({{ site.baseurl }}/architecture-as-code-java-magaz
 
 That example is good for explaining the idea. But after the article, a few people asked me: "Okay, but what else? What do you check in real projects?"
 
+---
+
 Good question. So here are the rules I actually use, or have used, in Java projects. With the code, and with the reason why. Because a rule without a reason will be deleted by the first developer who is annoyed by it. And they will be right.
 
 {% include pullquote.html quote="An architecture rule without a reason will be deleted by the first developer who is annoyed by it." %}
