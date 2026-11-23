@@ -105,13 +105,13 @@ component apiContainer "Component" {
 
 This will create the diagrams depicted in Image 1, 2 and 3.
 
-<img src="{{ site.baseurl }}/images/20250918/fig1-systemcontextdiagram.png" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/images/20250918/fig1-systemcontextdiagram.png" alt="C4 system context diagram" style="width: 700px;"/>
 *Image 1: System context diagram*
 
-<img src="{{ site.baseurl }}/images/20250918/fig2-containerdiagram.png" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/images/20250918/fig2-containerdiagram.png" alt="C4 container diagram" style="width: 700px;"/>
 *Image 2: Container diagram*
 
-<img src="{{ site.baseurl }}/images/20250918/fig3-componentdiagram.png" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/images/20250918/fig3-componentdiagram.png" alt="C4 component diagram" style="width: 700px;"/>
 *Image 3: Component diagram*
 
 ### Why Keep Diagrams In Version Control?
@@ -179,7 +179,7 @@ By putting rules in code, ArchUnit helps keep your architecture clean—no matte
  
 Let’s take a look at a common setup: a layered architecture (**Image 4**).
 
-<img src="{{ site.baseurl }}/images/20250918/fig4-layeredarchitecture.png" style="width: 700px;"/>
+<img src="{{ site.baseurl }}/images/20250918/fig4-layeredarchitecture.png" alt="Layered architecture with controller, service and persistence layers, showing correct access and access violations" style="width: 700px;"/>
 *Image 4: Layered architecture*
 
 To check that the code follows these rules, you can add this ArchUnit test to your project (**Listing 5**).

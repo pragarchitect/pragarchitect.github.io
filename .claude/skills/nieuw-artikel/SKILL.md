@@ -41,6 +41,10 @@ Volg de conventies en schrijfstijl uit `CLAUDE.md` strikt.
    - Een praktisch lijstje (tips, vragen of stappen) waar het past.
    - Nuchtere afsluiter, geen samenvattende "In conclusion".
    - Waar relevant 1 interne link naar een eerdere post: `[tekst]({{ site.baseurl }}/<slug>/)`.
+     **Link alleen naar posts die echt in `_posts/` staan** (slug = bestandsnaam zonder datum).
+     Wil je verwijzen naar een post die nog niet bestaat? Gebruik dan
+     `<!-- TODO: link naar /<slug>/ zodra die post bestaat -->` in plaats van een link.
+   - Afbeeldingen altijd met een korte, beschrijvende `alt="..."`.
    - **Niets verzinnen**: geen nep-anekdotes, cijfers of citaten. Waar een persoonlijke ervaring nodig is
      die je niet kent, zet je `<!-- TODO Marcel: korte anekdote over ... -->`.
    - Externe bronnen alleen als je ze zeker kent; anders weglaten.
@@ -51,6 +55,10 @@ Volg de conventies en schrijfstijl uit `CLAUDE.md` strikt.
    - Woordenaantal binnen de grens (`wc -w`)?
    - Front matter valide YAML, bestandsnaam en slug kloppen?
    - Als `bundle exec jekyll build` beschikbaar is: draaien en fouten oplossen. Anders overslaan en melden.
+   - Als `htmlproofer` beschikbaar is (anders `gem install html-proofer`):
+     `htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href`
+     en kapotte links of ontbrekende alt-teksten oplossen. Lukt installeren niet: melden en doorgaan,
+     de GitHub Action controleert het ook.
 
 6. **Committen (lokaal)**
    ```bash

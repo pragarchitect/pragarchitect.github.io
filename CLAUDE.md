@@ -10,6 +10,8 @@ Motto: *"Do what you can, with what you have, where you are."*
 - Plugins: jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-paginate (6 per pagina).
 - Ruby 3.3 via rbenv (`.ruby-version`); gems staan buiten de repo (niet in `vendor/`, ivm OneDrive-sync).
 - **Na elke wijziging aan posts/layouts: `bundle exec jekyll build` draaien** en fouten oplossen vóór committen.
+- Links checken: `htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href`
+  (ook in de GitHub Action `build-check`; een kapotte interne link of ontbrekende alt-tekst maakt de build rood).
 - Lokaal bekijken: `bundle exec jekyll serve` → http://localhost:4000
 - `bundle install` faalt op `'iostream' file not found` (kapotte Command Line Tools)? Draai dan:
   `CPLUS_INCLUDE_PATH=$(xcrun --show-sdk-path)/usr/include/c++/v1 bundle install`

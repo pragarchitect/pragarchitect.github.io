@@ -31,3 +31,10 @@ jobs:
         run: bundle exec jekyll build --strict_front_matter
         env:
           JEKYLL_ENV: production
+
+      # Interne links, afbeeldingen (incl. alt-tekst) en anchors controleren.
+      # Externe links niet: die zijn traag en geven vaak vals alarm.
+      - name: Check interne links
+        run: |
+          gem install html-proofer --no-document
+          htmlproofer ./_site --disable-external --no-enforce-https --allow-missing-href
