@@ -8,7 +8,11 @@ Motto: *"Do what you can, with what you have, where you are."*
 - Default branch: `master`. Alles wat op `master` komt staat direct live.
 - Permalink: `/:title/` → de URL is de slug uit de bestandsnaam (zonder datum).
 - Plugins: jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-paginate (6 per pagina).
-- Lokaal bouwen: `bundle install && bundle exec jekyll serve` (jekyll staat niet standaard geïnstalleerd).
+- Ruby 3.3 via rbenv (`.ruby-version`); gems staan buiten de repo (niet in `vendor/`, ivm OneDrive-sync).
+- **Na elke wijziging aan posts/layouts: `bundle exec jekyll build` draaien** en fouten oplossen vóór committen.
+- Lokaal bekijken: `bundle exec jekyll serve` → http://localhost:4000
+- `bundle install` faalt op `'iostream' file not found` (kapotte Command Line Tools)? Draai dan:
+  `CPLUS_INCLUDE_PATH=$(xcrun --show-sdk-path)/usr/include/c++/v1 bundle install`
 
 ## Structuur
 - `_posts/` — artikelen, `YYYY-MM-DD-slug.md` (slug in kleine letters, woorden gescheiden door `-`).

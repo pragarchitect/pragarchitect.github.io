@@ -100,4 +100,8 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - CLAUDE.md
+  - .claude
+  - "*.code-workspace"
+  - _pages/*.jpg
 
