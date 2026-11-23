@@ -24,8 +24,8 @@ And it doesn't have to be perfect. An ADR of ten lines that exists is worth more
 
 Some things that help in my teams:
 
-* Make it part of the definition of done. No ADR, no done.
-* Let the person who did the research write the first version. The architect can review, not the other way around.
-* Keep the template small. If it takes more than fifteen minutes, people will skip it.
+1. Make it part of the definition of done. No ADR, no done.
+2. Let the person who did the research write the first version. The architect can review, not the other way around.
+3. Keep the template small. If it takes more than fifteen minutes, people will skip it.
 
 In the end ADRs are not about documentation. They are about respect for the people who come after you. And quite often, that person is you.
