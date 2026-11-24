@@ -48,7 +48,7 @@ Rest van het artikel...
 - Interne link: `[tekst]({{ site.baseurl }}/<slug>/)`
 - Categorieën: gebruik `categories: [...]` (niet `category:`), kleine letters, bij voorkeur bestaande:
   `architecture`, `teams`, `agile`, `security`, `adr`, `java`, `archunit`, `java magazine`,
-  `lessonslearned`, `conference`, `misc`. Nederlandstalige posts: `architectuur`.
+  `business`, `lessonslearned`, `conference`, `misc`. Nederlandstalige posts: `architectuur`.
   Een nieuwe categorie alleen als geen bestaande past.
 
 ## Schrijfstijl (belangrijk)
