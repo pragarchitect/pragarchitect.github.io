@@ -1,7 +1,7 @@
 # Pragmatic Architect — pragarchitect.github.io
 
 Persoonlijke blog van Marcel Schutte over pragmatische software-architectuur.
-Motto: *"Do what you can, with what you have, where you are."*
+Motto (ondertitel): *"Yes, it depends. Let's find out on what."*
 
 ## Techniek
 - Jekyll-site op GitHub Pages (gem `github-pages`), thema gebaseerd op Reverie / Jekyll Now.
