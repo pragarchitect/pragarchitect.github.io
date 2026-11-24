@@ -76,7 +76,7 @@ A few things I want to point out.
 
 **Write down the options you didn't pick.** This saves a lot of discussions later. When someone says "why didn't we just use MongoDB?", the answer is already there.
 
-**Consequences, good and bad.** Be honest. Every decision has downsides. If you only write the good ones, the ADR looks like a sales pitch and people will not trust it. I also like to write at least one consequence in plain language that a product owner can understand.<!-- TODO: link naar /architecture-choices-are-business-choices/ toevoegen zodra die post bestaat -->
+**Consequences, good and bad.** Be honest. Every decision has downsides. If you only write the good ones, the ADR looks like a sales pitch and people will not trust it. I also like to write at least one consequence in plain language that a product owner can understand. Why that matters, I explain in [Architecture choices are business choices]({{ site.baseurl }}/architecture-choices-are-business-choices/).
 
 ## Where to keep them
 
