@@ -6,7 +6,7 @@ permalink: /talks/
 
 ## Upcoming talks
 
-Nothing yet!
+No talks planned at the moment. Want me to speak at your conference, meetup or team day? [Send me an email](mailto:marceljschutte+pragarchitect@gmail.com).
 
 
 ## Previous talks
@@ -15,7 +15,7 @@ Nothing yet!
 |:----------:|--------|----|:----:|
 |20230414|Sogeti Vianen - Java Friday| JEDUF with C4|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20230414-JEDUF%20with%20C4.pdf)|
 |20231103|Sogeti Groningen - Java Friday| Devoxx Antwerpen|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx-eng.pdf) - [NL](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx.pdf)|
-|20240301|Sogeti Groningen - Java Friday| Architecting for Tomorrow|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20231103-java-friday-noordoost-devoxx-eng.pdf) |
+|20240301|Sogeti Groningen - Java Friday| Architecting for Tomorrow|[ENG](https://github.com/pragarchitect/slidedecks/blob/main/20240301-java-friday-noordoost-pragarch-eng.pdf) |
 |20240315|AppDevCon Amsterdam| Architecting for Tomorrow| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20240315-appdevcon-pragarch-eng.pdf) |
 |20240403|Sogeti Groningen- Technische Divisiemeeting| Introduction to GitHub CoPilot| [NL](https://github.com/pragarchitect/slidedecks/blob/main/20240403-TechnischeMeetingNoordOost-GithubCoPilot.pdf)
 |20240509|Devoxx UK London| Architecting for Tomorrow| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20240509-devoxxuk-pragarch-eng.pdf) |
@@ -28,4 +28,4 @@ Nothing yet!
 |20241129|aiGrunn - Groningen| AI Infused Software Architecture| [ENG](https://github.com/pragarchitect/slidedecks/blob/main/20241129-AIGRUNN-ai-infused-software-architecture-ENG.pdf) - [PROMPTS](https://github.com/pragarchitect/slidedecks/blob/main/20241129-aigrunn-ai-infused-sa-prompts.pdf)|
 |20250925| DICTU - Den Haag| Threat modeling| No public slides|
 |20251016| DICTU - Den Haag| Threat modeling workshop| No public slides|
-|20260619|Agile Congres - Groningen| Architectuur in een Agile Wereld| [NL](https://github.com/marceljschutte/slidedecks/blob/main/20260619-AgileCongres-Architectuur-in-een-Agile-Wereld.pdf)|
+|20260619|Agile Congres - Groningen| Architectuur in een Agile Wereld| [NL](https://github.com/pragarchitect/slidedecks/blob/main/20260619-AgileCongres-Architectuur-in-een-Agile-Wereld.pdf)|
